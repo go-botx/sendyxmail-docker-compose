@@ -1,0 +1,12 @@
+# Generate tokens using https://generate-random.org/encryption-key-generator?count=1&bytes=32&cipher=aes-256-cbc&string=&password=
+# All fields except "token" are optional
+- token: "Ngtm4QyrPu6gN9k7QUN8KJTMFJksUGN7Fr02cQF2dO8jTUnfLvO9ZlCRsJos5Eo2"
+  created: "2025-04-19"
+  workorder: "WO 1234567"
+  owner: "Jessica Rabbit"
+  description: "for service \"server1.example.com\""
+- token: "tEGqbzWolzsXEbT1iAT+wkvioAc49M38NocZEGyIynyT4aWdLBSM1pl7mV8HupWU"
+  created: "2025-04-19"
+  workorder: "ticket SYS-123"
+  owner: "John Snow"
+  description: "for service \"server2.example.com\""
