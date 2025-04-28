@@ -5,10 +5,7 @@ services:
       dockerfile: docker/Dockerfile
       no_cache: true
       pull: true
-      tags:
-      - "filimonic/sendyxmail:latest"
-      - "filimonic/sendyxmail:v0.0.1"
-    image: filimonic/sendyxmail:latest
+    image: ghcr.io/go-botx/sendyxmail:latest
     container_name: sendyxmail
     ports:
       - "8000:8000"
